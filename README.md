@@ -27,7 +27,7 @@ A custom, data-integrated financial intelligence platform built to centralize ma
 
 ---
 
-## 🛠️ Data Architecture & Pipeline
+## Data Architecture & Pipeline
 * **Frontend:** Componentized React architecture with utility-first Tailwind CSS for high-density financial data layouts.
 * **Backend & API Layer:** Supabase relational data models handling user queries, geographic parameters, and financial asset metadata.
 * **Development Workflow:** Initial rapid UI/UX scaffolding executed via Lovable AI; deep logic integration, Supabase API wiring, and styling refactored locally utilizing Cursor (Claude 3.5 Sonnet engine).
