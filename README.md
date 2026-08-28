@@ -8,11 +8,12 @@ A custom, data-integrated financial intelligence platform built to centralize ma
 # **Workflow Pipeline**
 * Code development for Cash Manager Engine, connect to git, supabase, and lovable
 * Develop refresh schedule for each tab, proposed:
-*   Housing Data -- everyday at 8am, 10am, 12pm, 2pm, 4pm, 6pm
-*   Get Your Macros -- everyday at 8am, 10am, 12pm, 2pm, 4pm, 6pm
-*   Local Market Explorer -- refresh public datasets (Census Bureau information) once a week Sunday 9am
-*   Factor Beta Predictions -- rerun code to generate new ETF selections and predicted factor betas once a week Sunday 9am
-*   Cash Manager Engine -- weekly Sunday 9am
+**   Housing Data -- everyday at 8am, 10am, 12pm, 2pm, 4pm, 6pm
+**   Get Your Macros -- everyday at 8am, 10am, 12pm, 2pm, 4pm, 6pm
+**   Local Market Explorer -- refresh public datasets (Census Bureau information) once a week Sunday 9am
+**   Factor Beta Predictions -- rerun code to generate new ETF selections and predicted factor betas once a week Sunday 9am
+**   Cash Manager Engine -- weekly Sunday 9am
+* Complete Factor Beta workflow
 
 ---
 
